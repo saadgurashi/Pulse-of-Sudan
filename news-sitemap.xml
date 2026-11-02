@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://nabdalsudan.vercel.app/#khartoum-portsudan-transit-corridors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>نبض السودان الإخباري</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T17:30:00+02:00</news:publication_date>
+      <news:title>تسهيلات جديدة في المعابر الحدودية وخطة لتسريع الخدمات القنصلية والعودة الطوعية</news:title>
+      <news:keywords>أخبار السودان اليوم عاجل, أخبار المعابر والعودة الطوعية, السفارة السودانية في القاهرة, بورتسودان اليوم</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://nabdalsudan.vercel.app/#sudan-currency-gold-export-update</loc>
+    <news:news>
+      <news:publication>
+        <news:name>نبض السودان الإخباري</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T16:45:00+02:00</news:publication_date>
+      <news:title>ارتفاع صادرات السمسم والصمغ العربي وتحديثات سعر الدولار والذهب في السودان اليوم</news:title>
+      <news:keywords>سعر الدولار في السودان اليوم, سعر الجنيه السوداني مقابل الريال السعودي, تطبيق بنكك بنك الخرطوم, أسعار الذهب في السودان اليوم</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://nabdalsudan.vercel.app/#alhilal-almerrikh-sudan-continental-camp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>نبض السودان الإخباري</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T15:20:00+02:00</news:publication_date>
+      <news:title>صقور الجديان والقطبان الهلال والمريخ يرفعون وتيرة التحضيرات للاستحقاقات الأفريقية</news:title>
+      <news:keywords>الهلال السوداني اليوم, المريخ السوداني, المنتخب السوداني صقور الجديان, موعد مباراة الهلال السوداني والقنوات الناقلة</news:keywords>
+    </news:news>
+  </url>
+</urlset>

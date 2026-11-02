@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nabdalsudan.vercel.app/news-sitemap.xml
